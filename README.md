@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 The task is to predict the sentiment of a news article based on its title and headline.
 
-Dataset
+# Dataset
 
 This is a large data set of news items and their respective social feedback on multiple platforms: Facebook, Google+ and LinkedIn.
 
